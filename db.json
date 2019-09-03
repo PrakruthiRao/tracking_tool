@@ -1,19 +1,6 @@
 {
   "details": [
     {
-      "id": "GL-50-gy",
-      "Company Name": "Harber-Price",
-      "Industry": "Finance",
-      "Contact Person": "Sheri Betjes",
-      "Contact Number": "440-567-0065",
-      "Contact Email": "sbetjes4@photobucket.com",
-      "Headquarters": "Filiatrá",
-      "Price": "Undisclosed",
-      "Revenue Cost": "$381870.32",
-      "Gross Profit": "18%",
-      "Status": "Proposed"
-    },
-    {
       "id": "BR-50-cx",
       "Company Name": "Kshlerin LLC",
       "Industry": "Undisclosed",
@@ -13349,21 +13336,6 @@
       "Revenue Cost": "$692180.86",
       "Gross Profit": "92%",
       "Status": "Researching"
-    },
-    {
-      "id": "KN-48-ug",
-      "Company Name": "XYZ",
-      "Industry": "Finance",
-      "Contact Person": "Pakku R",
-      "Contact Number": "673-987-3678",
-      "Contact Email": "p@h.com",
-      "Headquarters": "Georgia",
-      "Revenue Cost": "4M",
-      "Gross Profit": "78%",
-      "Status": "Approved",
-      "Acquisition Year": "2019-09-18T04:00:00.000Z",
-      "Payment": "Bonds",
-      "Price": "5M"
     }
   ]
 }

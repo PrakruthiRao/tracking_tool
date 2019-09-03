@@ -6,9 +6,10 @@
   margin: 0 auto;
 
   .center-align {
-    width: 50%;
-    height: 100px;
+    // width: 50%;
+    // height: 100px;
     margin: 10% auto;
+    display: inline-flex;
 
     .example-card {
       max-width: 250px;
@@ -38,8 +39,9 @@
     text-align: center;
   }
 
-  .margin-div {
-    margin-left: 5px;
+  .margin-div,
+  mat-card-avatar {
+    margin-left: 5px !important;
   }
 
   a {
